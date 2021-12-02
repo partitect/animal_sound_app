@@ -16,7 +16,7 @@ class HomeScreen extends StatelessWidget {
       {"name": "koyun"},
       {"name": "kartal"},
       {"name": "yunus"},
-      {"name": "kus"},
+      {"name": "serce"},
       {"name": "kopek"},
       {"name": "fil"},
       {"name": "at"},
